@@ -2,7 +2,7 @@
 
 _Last updated: August 2024_
 
-Goal: For a company with multiple locations, find information and addresses for all relevant businesses within a set radius of a given location.
+Goal: For a company with multiple branches, find information and addresses for all relevant businesses within a set radius of a given branch.
 
 For more information, read the [project page](https://www.datascienceportfol.io/christinegarcia/projects/4).
 
