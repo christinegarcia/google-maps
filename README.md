@@ -1,6 +1,8 @@
-# Querying Google Maps API to find all businesses within a set radius of a company location
+# Querying Google Maps API
 
 _Last updated: August 2024_
+
+Goal: For a company with multiple locations, find information and addresses for all relevant businesses within a set radius of a given location.
 
 For more information, read the [project page](https://www.datascienceportfol.io/christinegarcia/projects/4).
 
